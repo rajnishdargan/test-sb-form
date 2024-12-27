@@ -24,7 +24,7 @@
     "@project-sunbird/client-services": "^7.0.6",
     "@project-sunbird/common-form-elements-full": "8.0.2",
     "lodash-es": "^4.17.21",
-    "ngx-chips": "2.2.2",
+    "ngx-chips": "3.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
